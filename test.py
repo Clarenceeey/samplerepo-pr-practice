@@ -1,3 +1,3 @@
 print("Hello world!")
-for i in range (10):
-    print("System.out.println('is this java?')")
+for i in range(5):
+    print("this is iteration " + i)
